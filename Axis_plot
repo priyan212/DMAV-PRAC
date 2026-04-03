@@ -1,0 +1,6 @@
+plt.plot(x,y,marker='o')
+plt.xlabel("X values (independent)")
+plt.ylabel("Y values (dependent)")
+plt.title("X-Y Axis Data plot")
+plt.grid(True)
+plt.show()
